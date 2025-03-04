@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1090389233935",
+    "project_id": "diet-plan-f6636",
+    "storage_bucket": "diet-plan-f6636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090389233935:android:f9c50f631716785f01ae7a",
+        "android_client_info": {
+          "package_name": "com.example.diet_plan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090389233935-mm14d3lmtcjir110de8rs05safq2qbk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diet_plan_app",
+            "certificate_hash": "b84c41c4bfb003d51282f16cc136e6c0b8ef23f2"
+          }
+        },
+        {
+          "client_id": "1090389233935-jnjo0md9hg63nbk54mn7n1ji9nft65dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCXVnE66U46kDgQUmXPo2XCxz7HWzcLOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090389233935-jnjo0md9hg63nbk54mn7n1ji9nft65dq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090389233935-qh8amb7tpuijiha09c7ehekfajmtf1et.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dietPlanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
